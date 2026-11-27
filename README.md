@@ -1,4 +1,4 @@
-### Alex Bubnov
+### Alex B
 
 I build the plumbing between AI models, CRMs and APIs, securely and with tests.
 AI automation and integrations engineer with a RevOps background and a DevOps practice (CI/CD on four OS images, supply-chain security, hardened deploys) · Novi Sad, Serbia · [LinkedIn](https://www.linkedin.com/in/alexbjoat)
